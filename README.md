@@ -1,10 +1,10 @@
 # bsort
-Integer sorting algorithm using radix sort.
-Code was written based on @rcgldr original code as discussed in [this thread](https://cboard.cprogramming.com/c-programming/178915-binary-radix-sort.html).
+Fast positive integer sorting algorithm using radix sort written in C++.
+The algorithm was based on @rcgldr original code as discussed in [this thread](https://cboard.cprogramming.com/c-programming/178915-binary-radix-sort.html).
 
 Compilation:
 
-`g++ bsort.cc -o bsort.x -Wall -O3`
+`g++ bsort.cc -o bsort.x -Wall -O2`
 
 Usage:
 
